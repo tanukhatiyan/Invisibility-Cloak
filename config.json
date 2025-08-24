@@ -1,0 +1,6 @@
+{
+    "ranges": [
+        { "lower": [0, 120, 70], "upper": [10, 255, 255] }
+    ],
+    "use_dual_range_for_red": true
+}
