@@ -1,6 +1,5 @@
 ✨ Features
 --------------------------------------------------------------------------------------------------------------------------------------
-Works with multiple colors (red, green, blue, yellow).
 
 Real-time invisibility effect using your webcam.
 
